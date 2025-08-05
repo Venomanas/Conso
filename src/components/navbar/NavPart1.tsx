@@ -37,7 +37,7 @@ const NavPart1 = () => {
             </radialGradient>
           </defs>
         </svg>
-        <h4 className="font-bold text-lg text-black">Conso</h4>
+        <h4 className="font-bold text-lg ">Conso</h4>
         <p className="text-[10px] border-1 rounded-full px-3 py-1 border-red-600 text-orange-600">
           Lite
         </p>
